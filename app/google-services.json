@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401242020170",
+    "project_id": "my-app-c90de",
+    "storage_bucket": "my-app-c90de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401242020170:android:8b2606b7220869b3f509b3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401242020170-6o4kpubtqrcu4uo49u8bfbhtqbcm2psc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgP0Am6yTnr7B1k-hg0G6RMKCglJqiDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401242020170-6o4kpubtqrcu4uo49u8bfbhtqbcm2psc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
